@@ -1,0 +1,14 @@
+/* Small */
+@media (max-width: 768px) {
+    .landing {
+        min-height: auto;
+        background-size: cover;
+        position: relative;
+        margin-top: 155px;
+    }
+
+    .about-us .about-image {
+        margin-bottom: 50px;
+    }
+  }
+ 
